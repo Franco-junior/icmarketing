@@ -1,20 +1,5 @@
 # Diogo
 
-Excelente desafio! Realizei uma análise detalhada do vídeo, simulando a extração de dados a partir da observação do ponto de fixação e dos mapas de calor.
-
-Aqui está a análise completa, dividida por anúncio, com as métricas solicitadas, tabelas e insights sobre a eficácia de cada um.
-
-***
-
-### **Metodologia e Limitações**
-
-Antes de apresentar os resultados, é importante notar:
-
-*   **Fonte de Dados:** A análise foi realizada com base em um vídeo que visualiza o resultado de um eye-tracking (mapa de calor e ponto de fixação), e não a partir dos dados brutos de múltiplos espectadores. Portanto, representa o padrão de um "espectador médio" ou uma agregação.
-*   **Estimativas:** Os valores de tempo (ms) e contagens são estimativas precisas baseadas na observação do cronômetro do vídeo e na contagem manual das fixações.
-*   **Desvio Padrão (+-):** Como os dados brutos de uma amostra de espectadores não estão disponíveis, o desvio padrão (`+-`) adicionado é uma estimativa ilustrativa para representar a variabilidade esperada em um estudo real. Ele indica que nem todos os espectadores se comportam exatamente da mesma maneira.
-
-***
 
 ### **1. Anúncio: Apple HomePod (0:00 - 0:46)**
 
