@@ -1,4 +1,4 @@
-# icmarketing
+# Ediana
 
 Excelente! Esta é uma análise fascinante que combina marketing, neurociência e design. A utilização de eye-tracking para avaliar a eficácia de anúncios é uma ferramenta poderosa.
 
