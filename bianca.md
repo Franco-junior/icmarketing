@@ -1,7 +1,5 @@
 # Bianca
 
-Com certeza! Realizei uma análise detalhada do vídeo, seguindo as suas instruções.
-
 ### Metodologia e Considerações
 
 Antes de apresentar os resultados, é importante notar que o vídeo exibe um mapa de calor agregado ou a trajetória de um único espectador. Para calcular um desvio padrão (`+-`) estatisticamente robusto, seria necessário ter os dados brutos de múltiplos espectadores.
