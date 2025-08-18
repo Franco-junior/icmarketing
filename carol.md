@@ -1,12 +1,5 @@
 # Carol
 
-Olá! Realizei uma análise detalhada do vídeo de eye-tracking que você enviou.
-
-Primeiramente, é crucial fazer uma observação metodológica: o vídeo apresenta um **mapa de calor (heatmap)** e um **gaze plot** (o círculo que se move), que são visualizações de dados de rastreamento ocular. A partir dessas visualizações, é possível fazer uma **análise qualitativa e estimativas bem-informadas** das métricas solicitadas. Os valores numéricos precisos, especialmente os desvios padrão, seriam obtidos a partir dos dados brutos de 
-múltiplos participantes, o que não temos acesso.
-
-Portanto, os valores apresentados a seguir são **estimativas interpretativas** baseadas na intensidade e duração das manchas de calor e no comportamento do gaze plot, simulando o que um relatório de neuromarketing apresentaria.
-
 ---
 
 ### Análise Geral por Anúncio
