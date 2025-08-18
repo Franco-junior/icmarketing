@@ -1,19 +1,5 @@
 # Daniel
 
-Excelente! Esta é uma análise fascinante que combina neurociência, marketing e design. A utilização de mapas de calor (heatmaps) sobre vídeos é uma ferramenta poderosa para entender o que realmente captura a atenção do espectador.
-
-Com base na visualização e análise detalhada do vídeo que você enviou, preparei um relatório completo com as métricas solicitadas para cada anúncio. 
-
----
-
-### **Metodologia e Observações Importantes**
-
-1.  **Natureza dos Dados:** O mapa de calor é uma representação agregada, provavelmente da média de vários espectadores. Ele nos mostra as áreas de maior interesse geral, mas não a jornada de um único indivíduo.
-2.  **Estimativa de Desvio (+/-):** Como estou analisando um resultado visual agregado (o mapa de calor) e não os dados brutos de cada participante, 
-não é possível calcular um desvio padrão estatístico preciso. O desvio (+/-) fornecido é uma **estimativa qualitativa** baseada na dispersão do mapa 
-de calor. Mapas mais focados e concentrados (vermelho intenso em um ponto) terão um desvio estimado menor, enquanto mapas mais espalhados e difusos (manchas maiores e menos intensas) terão um desvio estimado maior, indicando maior variabilidade entre os espectadores.
-3.  **Definição de AOI (Área de Interesse):** Para cada anúncio, defini as áreas mais relevantes para a análise (ex: Logo, Produto, Protagonista, Slogan).
-
 ---
 
 ### **Análise por Anúncio**
