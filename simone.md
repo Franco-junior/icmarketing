@@ -1,7 +1,5 @@
 # Simone
 
-Excelente! Recebi o vídeo e realizei uma análise detalhada dos anúncios, focando nas métricas de eye-tracking que você solicitou.
-
 ### Metodologia e Observações Iniciais
 
 A análise a seguir é baseada na observação cuidadosa do mapa de calor e do ponto de fixação (o círculo vermelho) presente no vídeo. Os valores são estimativas calculadas com base na duração das cenas e no comportamento visual demonstrado. O desvio padrão (`±`) representa uma margem de erro estimada para cada métrica.
