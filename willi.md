@@ -1,9 +1,5 @@
 # Willi
 
-Olá! Realizei uma análise detalhada do vídeo que você enviou, focando nos anúncios das marcas solicitadas. O mapa de calor (heatmap) forneceu insights valiosos sobre o comportamento atencional do espectador.
-
-A seguir, apresento a análise completa, dividida por marca, com as métricas solicitadas.
-
 ---
 
 ### **Metodologia e Observações Gerais**
