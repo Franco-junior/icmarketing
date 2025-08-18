@@ -1,9 +1,5 @@
 # Marcones
 
-Olá! Com certeza. Realizei uma análise detalhada do vídeo, observando o comportamento do mapa de calor para cada um dos anúncios.
-
-A seguir, apresento a análise completa, dividida por marca, com a identificação das Áreas de Interesse (AOIs) e as métricas estimadas em formato de tabela, seguidas de uma breve interpretação.
-
 ---
 
 ### **Aviso Metodológico**
